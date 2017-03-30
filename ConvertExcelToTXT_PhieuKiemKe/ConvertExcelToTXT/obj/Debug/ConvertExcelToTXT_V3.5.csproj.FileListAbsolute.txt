@@ -1,0 +1,9 @@
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe.config
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.pdb
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.ChonSheet.resources
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Form1.resources
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Properties.Resources.resources
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT_V3.5.csproj.GenerateResource.Cache
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.exe
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.pdb

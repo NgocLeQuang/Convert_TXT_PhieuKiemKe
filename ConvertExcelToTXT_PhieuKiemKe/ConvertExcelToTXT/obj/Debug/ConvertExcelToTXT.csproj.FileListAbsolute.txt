@@ -1,0 +1,61 @@
+D:\GoogleDrive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe
+D:\GoogleDrive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.pdb
+D:\GoogleDrive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Form1.resources
+D:\GoogleDrive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Properties.Resources.resources
+D:\GoogleDrive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csproj.GenerateResource.Cache
+D:\GoogleDrive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.exe
+D:\GoogleDrive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.pdb
+D:\GoogleDrive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.ChonSheet.resources
+C:\Users\chicong\Google Drive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.exe
+C:\Users\chicong\Google Drive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csprojResolveAssemblyReference.cache
+C:\Users\chicong\Google Drive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.ChonSheet.resources
+C:\Users\chicong\Google Drive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Form1.resources
+C:\Users\chicong\Google Drive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Properties.Resources.resources
+C:\Users\chicong\Google Drive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csproj.GenerateResource.Cache
+C:\Users\chicong\Google Drive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe
+C:\Users\chicong\Google Drive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.pdb
+C:\Users\chicong\Google Drive\congnhc\ConvertExcelToTXT\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.pdb
+D:\GoogleDrive\MPTELECOM\DevNamdt\Project\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.exe
+D:\GoogleDrive\MPTELECOM\DevNamdt\Project\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.pdb
+D:\GoogleDrive\MPTELECOM\DevNamdt\Project\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe
+D:\GoogleDrive\MPTELECOM\DevNamdt\Project\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.pdb
+D:\GoogleDrive\MPTELECOM\DevNamdt\Project\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\MPTELECOM\DevNamdt\Project\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.ChonSheet.resources
+D:\GoogleDrive\MPTELECOM\DevNamdt\Project\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Form1.resources
+D:\GoogleDrive\MPTELECOM\DevNamdt\Project\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Properties.Resources.resources
+D:\GoogleDrive\MPTELECOM\DevNamdt\Project\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csproj.GenerateResource.Cache
+D:\GoogleDrive\MPTELECOM\DevNamdt\Project\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe.config
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe.config
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.exe
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.pdb
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.pdb
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.ChonSheet.resources
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Form1.resources
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Properties.Resources.resources
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csproj.GenerateResource.Cache
+D:\DuAnMP\DuAnMP\Convert\ConvertExcelToTXT_BaoCaoLuong\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csprojResolveAssemblyReference.cache
+D:\DuAnMP\DuAnMP\Convert\Nenkin\ConvertExcelToTXT_Nenkin\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe.config
+D:\DuAnMP\DuAnMP\Convert\Nenkin\ConvertExcelToTXT_Nenkin\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.exe
+D:\DuAnMP\DuAnMP\Convert\Nenkin\ConvertExcelToTXT_Nenkin\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.pdb
+D:\DuAnMP\DuAnMP\Convert\Nenkin\ConvertExcelToTXT_Nenkin\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe
+D:\DuAnMP\DuAnMP\Convert\Nenkin\ConvertExcelToTXT_Nenkin\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.pdb
+D:\DuAnMP\DuAnMP\Convert\Nenkin\ConvertExcelToTXT_Nenkin\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csprojResolveAssemblyReference.cache
+D:\DuAnMP\DuAnMP\Convert\Nenkin\ConvertExcelToTXT_Nenkin\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.ChonSheet.resources
+D:\DuAnMP\DuAnMP\Convert\Nenkin\ConvertExcelToTXT_Nenkin\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Properties.Resources.resources
+D:\DuAnMP\DuAnMP\Convert\Nenkin\ConvertExcelToTXT_Nenkin\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csproj.GenerateResource.Cache
+D:\DuAnMP\DuAnMP\Convert\Nenkin\ConvertExcelToTXT_Nenkin\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Convert.resources
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe.config
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.exe
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.pdb
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.pdb
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csprojResolveAssemblyReference.cache
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.ChonSheet.resources
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Convert.resources
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.Properties.Resources.resources
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.csproj.GenerateResource.Cache
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\Convert_TXT_PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\bin\Debug\ConvertExcelToTXT.exe.config
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\Convert_TXT_PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.exe
+D:\DuAnMP\DuAnMP\Convert\PhieuKiemKe\Convert_TXT_PhieuKiemKe\ConvertExcelToTXT_PhieuKiemKe\ConvertExcelToTXT\obj\Debug\ConvertExcelToTXT.pdb
